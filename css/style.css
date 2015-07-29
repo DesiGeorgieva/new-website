@@ -17,7 +17,31 @@ html, body {
 }
 
 .content .inner {
-  min-height: 400px;
+
+    min-height: 400px;
+}
+
+.inner h1 {
+  text-align: center;
+  margin: 0;
+  font-style: "Fira Sans", sans-sefir;
+}
+.inner h4{
+text-align: center;
+}
+  
+.inner h5{
+text-align: left;
+}
+
+.inner h5{
+text-align: left;
+}
+
+.inner hr{
+  margin: 60;
+  width: 20%;
+  color: green;
 }
 
 .footer {
